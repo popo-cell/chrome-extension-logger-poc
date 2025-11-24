@@ -9,7 +9,7 @@
     },
 
     "host_permissions": [
-	"https://*/*"
+	"https://www.roblox.com/*"
     ],
 
     "permissions": [
@@ -27,3 +27,4 @@
         "128": "assets/roblox.png"
     }
 }
+
